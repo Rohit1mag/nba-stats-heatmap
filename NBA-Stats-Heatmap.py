@@ -30,7 +30,6 @@ def getDataList(df):
         
 
 #Main
-#file = open("C:/Users/Rohi/Downloads/nba2020PerTable.csv", "w", encoding = "utf-8")
 dataf = pd.read_csv("")#local file loc of data csv for that year
 #dataf = removeSpecialChars(dataf)
 #dataf.sort_values(by=['PER'], inplace=True, ascending=False)
