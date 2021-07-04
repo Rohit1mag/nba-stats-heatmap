@@ -1,5 +1,5 @@
 # NBA Stats Heatmap
 Creates a heatmap of various statistical categories in an NBA season based on yearly data(csv) from basketball-reference.com.
 
-Implemented using the python library seaborn.
+Implemented using the python library **Seaborn**
 
